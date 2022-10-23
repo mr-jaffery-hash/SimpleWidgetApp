@@ -1,0 +1,16 @@
+.widgetCol{
+    float:left;
+    padding: 10px;
+}
+
+.coloumn.left{
+    width: 5%;
+}
+
+.coloumn.right{
+    width: 95%;
+}
+
+.row{
+    display: flex;
+}
